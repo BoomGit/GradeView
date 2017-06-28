@@ -14,6 +14,7 @@ import android.view.View;
  */
 
 public class GradeView extends View {
+
     private  Bitmap bigger_grade_fcous;
     private Bitmap bigger_grade_normal;
     private int mTotal=5;
